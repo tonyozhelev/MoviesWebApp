@@ -1,0 +1,10 @@
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\MovieModelsData.dll.config
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\MovieModelsData.dll
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\MovieModelsData.pdb
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\EntityFramework.dll
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\EntityFramework.SqlServer.dll
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\EntityFramework.xml
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\bin\Debug\EntityFramework.SqlServer.xml
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\obj\Debug\MovieModelsData.csprojResolveAssemblyReference.cache
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\obj\Debug\MovieModelsData.dll
+C:\SoftUniWeb\MovieWebApp\MovieModelsData\obj\Debug\MovieModelsData.pdb
